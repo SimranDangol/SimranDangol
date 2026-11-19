@@ -17,9 +17,7 @@ Software Engineer specializing in modern full-stack web applications, real-time 
 ### ⚙️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,nextjs,react,nodejs,express,tailwind,prisma,postgres,supabase,redis,mongodb,docker,githubactions,git,postman&theme=dark" alt="Tech Stack" />
-  <img src="https://cdn.simpleicons.org/stripe/635BFF" title="Stripe Payments" alt="Stripe" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/lemonsqueezy/FFC233" title="Lemon Squeezy Payments" alt="Lemon Squeezy" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,nextjs,react,nodejs,express,tailwind,prisma,postgres,supabase,redis,mongodb,docker,githubactions,git,postman,linux&perline=9&theme=dark" alt="Tech Stack" />
 </p>
 
 <br />

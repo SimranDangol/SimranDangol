@@ -16,27 +16,13 @@ Software Engineer specializing in modern full-stack web applications, real-time 
 
 ### ⚙️ Technologies & Tools
 
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript" width="46" height="46" />
-<img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" width="46" height="46" />
-<img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" alt="Python" width="46" height="46" />
-<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" alt="Next.js" width="46" height="46" />
-<img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" width="46" height="46" />
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" width="46" height="46" />
-<img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express.js" alt="Express" width="46" height="46" />
-<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" alt="Tailwind" width="46" height="46" />
-<img src="https://skillicons.dev/icons?i=prisma&theme=dark" title="Prisma ORM" alt="Prisma" width="46" height="46" />
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" alt="PostgreSQL" width="46" height="46" />
-<img src="https://skillicons.dev/icons?i=supabase&theme=dark" title="Supabase" alt="Supabase" width="46" height="46" />
-<img src="https://skillicons.dev/icons?i=redis&theme=dark" title="Redis" alt="Redis" width="46" height="46" />
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" width="46" height="46" />
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" width="46" height="46" />
-<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="CI/CD (GitHub Actions)" alt="GitHub Actions" width="46" height="46" />
-<img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="46" height="46" />
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" alt="Postman" width="46" height="46" />
-<img src="https://cdn.simpleicons.org/stripe/635BFF" title="Stripe Payments" alt="Stripe" width="42" height="42" />
-<img src="https://cdn.simpleicons.org/lemonsqueezy/FFC233" title="Lemon Squeezy Payments" alt="Lemon Squeezy" width="42" height="42" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,nextjs,react,nodejs,express,tailwind,prisma,postgres,supabase,redis,mongodb,docker,githubactions,git,postman&theme=dark" alt="Tech Stack" />
+  <img src="https://cdn.simpleicons.org/stripe/635BFF" title="Stripe Payments" alt="Stripe" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/lemonsqueezy/FFC233" title="Lemon Squeezy Payments" alt="Lemon Squeezy" width="48" height="48" />
+</p>
 
-<br /><br />
+<br />
 
 ---
 

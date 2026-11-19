@@ -1,19 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0366d6&height=200&section=header&text=Simran%20Dangol&fontSize=42&fontAlignY=38&desc=Full-Stack%20AI%20Engineer&descSize=19&descAlignY=58&fontColor=ffffff&stroke=00d4ff&strokeWidth=1" width="100%" alt="Header" />
-</div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/simrandangol"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/SimranDangol"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://real-time-voice-assistant-acno.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Simran+Dangol+%F0%9F%91%8B;Full-Stack+AI+Engineer;Building+Real-Time+Voice+Pipelines;Agentic+AI+%26+Modern+Web+Systems" alt="Typing SVG" />
+
+  <p align="center">
+    <strong>Full-Stack AI Engineer</strong> experienced in developing modern web applications, real-time streaming architectures, and intelligent agentic systems.<br />
+    Focused on robust system design, high-performance APIs, real-time concurrency, and continuous hands-on learning across the full development stack.
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/simrandangol"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/SimranDangol"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://real-time-voice-assistant-acno.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+  </p>
+
 </div>
 
 <br />
-
-<div align="center">
-  <p><strong>Full-Stack AI Engineer</strong> experienced in developing modern web applications, real-time streaming architectures, and intelligent agentic systems.</p>
-  <p>Focused on robust system design, high-performance APIs, real-time concurrency, and continuous hands-on learning across the full development stack.</p>
-</div>
 
 ---
 

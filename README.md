@@ -36,9 +36,3 @@ Software Engineer specializing in modern full-stack web applications, real-time 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimranDangol&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
-
----
-
-<div align="center">
-  <sub>Building scalable, intelligent full-stack systems with a focus on engineering quality.</sub>
-</div>

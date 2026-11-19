@@ -1,16 +1,16 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Simran+Dangol+%F0%9F%91%8B;Full-Stack+AI+Engineer;Building+Real-Time+Voice+Pipelines;Agentic+AI+%26+Modern+Web+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Simran+Dangol+%F0%9F%91%8B;Software+Engineer+%7C+AI+Full-Stack+Engineer;Building+Real-Time+Voice+Pipelines;Agentic+AI+%26+Modern+Web+Systems" alt="Typing SVG" />
 
   <p align="center">
-    <strong>Full-Stack AI Engineer</strong> experienced in developing modern web applications, real-time streaming architectures, and intelligent agentic systems.<br />
+    <strong>Software Engineer | AI Full-Stack Engineer</strong> experienced in developing modern web applications, real-time streaming architectures, and intelligent agentic systems.<br />
     Focused on robust system design, high-performance APIs, real-time concurrency, and continuous hands-on learning across the full development stack.
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/simrandangol"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/simran-dangol"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:simrandangol10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/SimranDangol"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://real-time-voice-assistant-acno.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
   </p>
 
 </div>
@@ -19,7 +19,7 @@
 
 ---
 
-### ⚙️ Technologies & Architecture
+### ⚙️ Technologies & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -28,12 +28,6 @@
 </div>
 
 <br />
-
-| Domain | Core Stack & System Patterns |
-| :--- | :--- |
-| **Full-Stack Web** | Next.js, React, Node.js, Express, Fastify, TypeScript, Tailwind CSS, REST APIs, WebSockets |
-| **AI & Intelligent Systems** | Deepgram Nova-3 (Streaming ASR), Cartesia / ElevenLabs (Streaming TTS), Groq / OpenAI (LLMs), Agentic RAG, Vector Search |
-| **Data & Infrastructure** | PostgreSQL, Redis (Caching, session registry, rate limits, queues), BullMQ, Docker, Linux, CI/CD |
 
 ---
 

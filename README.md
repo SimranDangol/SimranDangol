@@ -22,12 +22,30 @@
 ### ⚙️ Technologies & Tools
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,express,nextjs,react,tailwind,postgres,redis,mongodb,docker,git,githubactions,vercel,vite&perline=8&theme=dark" alt="Tech Stack" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript" width="46" height="46" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" width="46" height="46" />
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" alt="Python" width="46" height="46" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" alt="Next.js" width="46" height="46" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" width="46" height="46" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" width="46" height="46" />
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express.js" alt="Express" width="46" height="46" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" alt="Tailwind" width="46" height="46" />
+  <img src="https://skillicons.dev/icons?i=prisma&theme=dark" title="Prisma ORM" alt="Prisma" width="46" height="46" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" alt="PostgreSQL" width="46" height="46" />
+  <img src="https://skillicons.dev/icons?i=redis&theme=dark" title="Redis" alt="Redis" width="46" height="46" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" width="46" height="46" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" width="46" height="46" />
+  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="CI/CD (GitHub Actions)" alt="GitHub Actions" width="46" height="46" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="46" height="46" />
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" title="Vercel" alt="Vercel" width="46" height="46" />
+  <img src="https://skillicons.dev/icons?i=vite&theme=dark" title="Vite" alt="Vite" width="46" height="46" />
 </div>
 
-<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" title="Stripe Payments" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Lemon_Squeezy-FFC233?style=flat-square&logo=lemonsqueezy&logoColor=black" title="Lemon Squeezy Payments" alt="Lemon Squeezy" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" title="CI/CD Automation" alt="CI/CD" />
+</p>
 
 ---
 

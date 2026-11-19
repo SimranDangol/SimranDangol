@@ -1,60 +1,82 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0366d6&height=200&section=header&text=Simran%20Dangol&fontSize=42&fontAlignY=38&desc=Full-Stack%20%7C%20AI%20Systems%20Engineer&descSize=18&descAlignY=58&fontColor=ffffff&stroke=00d4ff&strokeWidth=1" width="100%" alt="Header" />
+</div>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Simran+Dangol+%F0%9F%91%8B;Software+Engineer+%7C+AI+%26+Full-Stack;Building+Real-Time+Voice+Pipelines;Specializing+in+Sub-Second+Latency" alt="Typing SVG" />
-
-  <p align="center">
-    <strong>Software Engineer focused on Real-Time Streaming Systems, Agentic AI, and High-Throughput Web Architectures.</strong>
-  </p>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/simrandangol"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/SimranDangol"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://real-time-voice-assistant-acno.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-  </p>
-
+<div align="center">
+  <a href="https://linkedin.com/in/simrandangol"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/SimranDangol"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <br />
 
-### ⚡ About Me
+```typescript
+interface SoftwareEngineer {
+  name: string;
+  focus: string[];
+  architectureInterests: string[];
+  principles: string[];
+}
 
-- 🎙️ **Real-Time Voice Systems:** Engineered an end-to-end voice pipeline hitting a **p50 Time-to-First-Audio (TTFA) of 877ms** with live streaming ASR, sentence chunking, and streaming TTS.
-- 🤖 **Agentic & Retrieval AI:** Architecting multi-agent support workflows and semantic RAG systems for intelligent documentation search and task automation.
-- 🌐 **Full-Stack Engineering:** Building production-grade applications with TypeScript, Next.js, WebSockets, Redis caching/queues, and PostgreSQL.
+const simran: SoftwareEngineer = {
+  name: "Simran Dangol",
+  focus: [
+    "Full-Stack Web Architecture",
+    "Agentic AI & Retrieval-Augmented Generation (RAG)",
+    "Real-Time Concurrency & Streaming Systems"
+  ],
+  architectureInterests: [
+    "High-throughput WebSocket pipelines",
+    "Sub-second latency voice & token streaming",
+    "Multi-agent autonomous orchestration",
+    "Distributed caching & asynchronous job queues"
+  ],
+  principles: [
+    "Ship resilient, production-first architectures",
+    "Measure everything (p50/p95 latency, throughput, error rates)",
+    "Continuous learning through hands-on system building"
+  ]
+};
+```
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+### ⚙️ Technical Architecture & Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,express,nextjs,react,tailwind,postgres,redis,mongodb,docker,git,githubactions,vercel,vite&perline=8&theme=dark" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,express,nextjs,react,tailwind,postgres,redis,mongodb,docker,git,githubactions,vercel,vite&perline=8&theme=dark" alt="Tech Stack" />
   </a>
 </div>
 
 <br />
 
+| Domain | Core Technologies & Patterns |
+| :--- | :--- |
+| **Backend & Architecture** | Node.js, Express, Fastify, REST APIs, WebSockets, BullMQ, Microservices Patterns |
+| **Frontend Engineering** | Next.js, React, TypeScript, Tailwind CSS, Web Audio API (`AudioWorklet`), Responsive UX |
+| **AI & Intelligent Systems** | Deepgram Nova-3 (Streaming ASR), Cartesia / ElevenLabs (Streaming TTS), Groq / OpenAI (LLMs), Agentic RAG, Vector Search |
+| **Data & Infrastructure** | PostgreSQL, Redis (Session registry, rate limiting, pub/sub), Docker, Docker Compose, Linux |
+
 ---
 
-### 🚀 Highlighted Engineering Work
+### 🚀 Highlighted Systems
 
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🎙️ Real-Time Voice Assistant</h3>
-      <p>Sub-second streaming conversational voice pipeline. Features Deepgram Nova-3 streaming ASR, Groq token streaming, sentence chunking, barge-in cancellation, and Cartesia/ElevenLabs TTS.</p>
-      <p><strong>Latency Benchmark:</strong> p50 TTFA 877ms • 10.3% WER</p>
+      <p>A production-engineered voice assistant achieving <strong>p50 TTFA of 877ms</strong> and 10.3% WER. Features streaming Nova-3 ASR, Groq token reasoning, sentence-level chunking, instant barge-in state cancellation, and low-latency streaming TTS.</p>
       <p align="center">
-        <a href="https://github.com/SimranDangol/Real-Time-Voice-Assistant"><strong>View Repository »</strong></a> • 
+        <a href="https://github.com/SimranDangol/Real-Time-Voice-Assistant"><strong>Source Code »</strong></a> • 
         <a href="https://real-time-voice-assistant-acno.vercel.app"><strong>Live Demo »</strong></a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">🤖 Agentic RAG IT Support</h3>
-      <p>Autonomous multi-agent system combining contextual retrieval-augmented generation (RAG) with intelligent routing and automated action execution for IT workflows.</p>
-      <p><strong>Core Tech:</strong> Python, Vector Embeddings, LangChain, FastAPI</p>
+      <p>An autonomous multi-agent IT operations and support platform. Implements contextual retrieval-augmented generation, intelligent request classification, vector indexing, and tool execution pipelines.</p>
       <p align="center">
-        <a href="https://github.com/SimranDangol/agentic-rag-it-support"><strong>View Repository »</strong></a>
+        <a href="https://github.com/SimranDangol/agentic-rag-it-support"><strong>Source Code »</strong></a>
       </p>
     </td>
   </tr>
@@ -62,7 +84,7 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 Engineering Activity & Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SimranDangol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="155" />
@@ -78,5 +100,5 @@
 ---
 
 <div align="center">
-  <sub>Designed with precision • Let's build something remarkable together</sub>
+  <sub>Engineered with precision • Focused on scalability, clean architecture, and continuous technical growth.</sub>
 </div>

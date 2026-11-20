@@ -17,11 +17,30 @@ Software Engineer specializing in modern full-stack web applications, real-time 
 ### ⚙️ Technologies & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/SimranDangol/SimranDangol/main/icons/langgraph.svg" alt="LangGraph" width="48" height="48" />&nbsp;
-  <img src="https://raw.githubusercontent.com/SimranDangol/SimranDangol/main/icons/langchain.svg" alt="LangChain" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts,js,py,nextjs,react,nodejs,express,tailwind,prisma&theme=dark" alt="Frontend & Backend" /><br/>
-  <img src="https://raw.githubusercontent.com/SimranDangol/SimranDangol/main/icons/rag.svg" alt="RAG" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,redis,mongodb,docker,githubactions,git,postman,linux&theme=dark" alt="Database & Cloud" />
+  <!-- Line 1: AI, Languages & Core Frameworks -->
+  <img src="https://raw.githubusercontent.com/SimranDangol/SimranDangol/main/icons/langgraph.svg" title="LangGraph" alt="LangGraph" width="48" height="48" />&nbsp;
+  <img src="https://raw.githubusercontent.com/SimranDangol/SimranDangol/main/icons/langchain.svg" title="LangChain" alt="LangChain" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=py" title="Python" alt="Python" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma" title="Prisma ORM" alt="Prisma" height="48" />
+  <br/><br/>
+  <!-- Line 2: AI Retrieval, Databases & DevOps -->
+  <img src="https://raw.githubusercontent.com/SimranDangol/SimranDangol/main/icons/rag.svg" title="RAG (Retrieval-Augmented Generation)" alt="RAG" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" alt="Supabase" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" height="48" />
 </p>
 
 <br />

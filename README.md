@@ -17,13 +17,11 @@ Software Engineer specializing in modern full-stack web applications, real-time 
 ### ⚙️ Technologies & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/RAG-0052CC?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,nextjs,react,nodejs,express,tailwind,prisma,postgres,supabase,redis,mongodb,docker,githubactions,git,postman,linux&perline=9&theme=dark" alt="Tech Stack" />
+  <img src="https://raw.githubusercontent.com/SimranDangol/SimranDangol/main/icons/langgraph.svg" alt="LangGraph" width="48" height="48" />&nbsp;
+  <img src="https://raw.githubusercontent.com/SimranDangol/SimranDangol/main/icons/langchain.svg" alt="LangChain" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts,js,py,nextjs,react,nodejs,express,tailwind,prisma&theme=dark" alt="Frontend & Backend" /><br/>
+  <img src="https://raw.githubusercontent.com/SimranDangol/SimranDangol/main/icons/rag.svg" alt="RAG" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,redis,mongodb,docker,githubactions,git,postman,linux&theme=dark" alt="Database & Cloud" />
 </p>
 
 <br />

@@ -1,0 +1,15 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="60" fill="#142A27"/>
+  <!-- Circular State Graph Architecture -->
+  <circle cx="70" cy="128" r="28" fill="#1C3C3C" stroke="#38BDF8" stroke-width="8"/>
+  <circle cx="186" cy="74" r="24" fill="#1C3C3C" stroke="#00A67E" stroke-width="8"/>
+  <circle cx="186" cy="182" r="24" fill="#1C3C3C" stroke="#00A67E" stroke-width="8"/>
+  <!-- State Edges -->
+  <path d="M96 114 C124 98 144 88 162 78" stroke="#ffffff" stroke-width="10" stroke-linecap="round"/>
+  <path d="M96 142 C124 158 144 168 162 178" stroke="#ffffff" stroke-width="10" stroke-linecap="round"/>
+  <path d="M186 98 L186 158" stroke="#38BDF8" stroke-width="10" stroke-linecap="round" stroke-dasharray="12 10"/>
+  <!-- Node Center Dots -->
+  <circle cx="70" cy="128" r="12" fill="#38BDF8"/>
+  <circle cx="186" cy="74" r="10" fill="#00A67E"/>
+  <circle cx="186" cy="182" r="10" fill="#00A67E"/>
+</svg>

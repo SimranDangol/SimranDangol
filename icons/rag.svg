@@ -1,0 +1,17 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="60" fill="#0A3663"/>
+  <!-- Vector Database Stack -->
+  <g transform="translate(48, 62)">
+    <!-- Top Cylinder Layer -->
+    <ellipse cx="80" cy="24" rx="72" ry="22" fill="#38BDF8"/>
+    <ellipse cx="80" cy="24" rx="58" ry="16" fill="#0284C7"/>
+    <!-- Middle Cylinder Layer -->
+    <path d="M8 24 v36 c0 16 32 24 72 24 s72 -8 72 -24 v-36" fill="#0369A1" opacity="0.9"/>
+    <ellipse cx="80" cy="60" rx="72" ry="20" fill="none" stroke="#38BDF8" stroke-width="4"/>
+    <!-- Bottom Cylinder Layer -->
+    <path d="M8 60 v40 c0 18 32 26 72 26 s72 -8 72 -26 v-40" fill="#075985"/>
+    <!-- AI Retrieval Sparkle -->
+    <path d="M124 16 L130 0 L136 16 L152 22 L136 28 L130 44 L124 28 L108 22 Z" fill="#FDE047"/>
+    <path d="M40 86 L44 76 L48 86 L58 90 L48 94 L44 104 L40 94 L30 90 Z" fill="#38BDF8"/>
+  </g>
+</svg>
